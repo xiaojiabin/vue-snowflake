@@ -1,6 +1,6 @@
 
 var bigInt = require('big-integer') 
-class SnowFlake {
+class init {
   /**
    * 构造函数
    */
@@ -98,5 +98,5 @@ class SnowFlake {
 // }
 // main()
 module.exports = {
-  SnowFlake
+  init
 } 
