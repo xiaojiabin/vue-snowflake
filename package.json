@@ -1,0 +1,14 @@
+{
+  "name": "vue-snowflake",
+  "version": "1.0.0",
+  "description": "通过js生成类似twitter雪花算法的自增唯一id",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yjiabin",
+  "license": "ISC",
+  "dependencies": {
+    "big-integer": "^1.6.48"
+  }
+}
